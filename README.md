@@ -1,13 +1,5 @@
-# SampleRes
-Resources Sample
-
-what needs to be done on app release
-Resources res = getResources();
-setListAdapter(new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, myarray));
-en fr
-
-
 Device compatibility
+
 Restrict your app's availability to devices through Google Play Store :
 - Device features
 <uses-feature android:name="android.hardware.sensor.compass" android:required="true" />
