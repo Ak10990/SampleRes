@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SampleApp</string>
+
+    <string name="hello_world">हेलो वर्ल्ड!</string>
+    <string name="action_settings">सेटिंग्स</string>
+    <string name="audio">ऑडियो</string>
+    <string name="video">वीडियो</string>
+
+    <item name="button_ok" type="id"/>
+
+</resources>

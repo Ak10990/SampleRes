@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="continents">
+        <item>AFRICA</item>
+        <item>EUROPE</item>
+        <item>ASIA</item>
+        <item>NORTH AMERICA</item>
+        <item>SOUTH AMERICA</item>
+        <item>ANTARCTICA</item>
+        <item>AUSTRALIA</item>
+    </string-array>
+    <array name="colors">
+        <item>#00BFFF</item>
+        <item>#E91E63</item>
+        <item>#F44336</item>
+        <item>#9C27B0</item>
+        <item>#673AB7</item>
+    </array>
+    <array name="drawables">
+        <item>@drawable/abc_btn_rating_star_on_mtrl_alpha</item>
+        <item>@drawable/abc_btn_borderless_material</item>
+    </array>
+    <integer-array name="lucky">
+        <item>25</item>
+        <item>44</item>
+    </integer-array>
+</resources>
